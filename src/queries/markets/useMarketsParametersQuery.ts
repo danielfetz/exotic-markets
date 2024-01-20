@@ -33,7 +33,7 @@ const useMarketsParametersQuery = (networkId: NetworkId, options?: UseQueryOptio
                     disputePrice: 0,
                     paymentToken: '',
                     creationRestrictedToOwner: false,
-                    owner: 0xCd188D8033aBCf54F7cB179906eaD8c8a431369b,
+                    owner: 'xCd188D8033aBCf54F7cB179906eaD8c8a431369b',
                     maxNumberOfTags: MAXIMUM_TAGS,
                     minFixedTicketPrice: MINIMUM_TICKET_PRICE,
                     maxFixedTicketPrice: MAXIMUM_TICKET_PRICE,
